@@ -8,12 +8,10 @@ The following codes can be found:
 
 *Master thesis:
 
-  *   R Code
+  *   R code
   
   *   VBA code
   
-*Python code:
+*Course dynamic programming:
   
-  *Course dynamic programming
-  
- *Matlab code?
+  *   Python code
