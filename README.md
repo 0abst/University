@@ -8,9 +8,9 @@ The following codes can be found:
 
 *Master thesis:
 
-  *R Code
+  *   R Code
   
-  *VBA code
+  *   VBA code
   
 *Python code:
   
