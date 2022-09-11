@@ -20,7 +20,7 @@ J_t^* (w_t )= 〖min〗_(u_t ) E[〖TC〗_(u_t )+ϵ_(u_t )+J_(t+1) (w_(t+1) )]
 
 Information
 ------------
-* Removre '#' to plot the required plots if needed
+* Remove '#' to plot the required plots if needed
 * The Code generates a Optimal.csv file containing the Dynamic Programming Information:
 	1. 'Date' & 'Close_A' & 'Close_B':						Initial inputs
 	2. 'Returns_A' & 'Returns_B': 							Returns of Assets A and B using the 'Close_A' and 'Close_B'
