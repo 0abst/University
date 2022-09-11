@@ -6,12 +6,18 @@ This repository aims at gathering several computer codes written during the stud
 
 The following codes can be found:
 
-*Master thesis:
+* Master thesis:
 
   *   R code
   
   *   VBA code
   
-*Course dynamic programming:
+* Course dynamic programming:
+  
+  *   Python code
+
+* Theory of Finance:
+
+  *   Matlab code
   
   *   Python code
