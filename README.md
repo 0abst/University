@@ -8,7 +8,7 @@ The following codes can be found:
 
   *   R code
   
-  *   VBA code (TBA)
+  *   VBA code
   
 * Course dynamic programming:
   
